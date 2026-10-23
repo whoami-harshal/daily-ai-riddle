@@ -1,13 +1,13 @@
 ---
-title: Daily AI Riddle — Privacy Policy
+title: Riddle Streak — Privacy Policy
 permalink: /privacy/
 ---
 
-# Daily AI Riddle — Privacy Policy
+# Riddle Streak — Privacy Policy
 
 _Last updated: 23 October 2026_
 
-Daily AI Riddle is an app that runs inside Anna. This policy explains what the app does with your information.
+Riddle Streak is an app that runs inside Anna. This policy explains what the app does with your information.
 
 ## What is sent to Anna's AI
 
@@ -17,7 +17,7 @@ To make and check riddles and to judge your answers, the app sends these to Anna
 - a list of your recent riddle answers (so the AI doesn't repeat them),
 - the riddle and the guesses you type, when they need to be judged.
 
-The AI is provided by Anna and runs under your own Anna account and AI quota. Daily AI Riddle has no servers of its own and does not send your information anywhere else.
+The AI is provided by Anna and runs under your own Anna account and AI quota. Riddle Streak has no servers of its own and does not send your information anywhere else.
 
 ## What is stored
 

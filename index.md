@@ -1,12 +1,12 @@
 ---
-title: Daily AI Riddle
+title: Riddle Streak
 ---
 
-<img src="logo.png" alt="Daily AI Riddle logo" width="96" height="96">
+<img src="logo.png" alt="Riddle Streak logo" width="96" height="96">
 
-# Daily AI Riddle
+# Riddle Streak
 
-**A brand-new riddle every day, made just for you by AI.** Answer in your own words, take up to 3 hints, keep your 🔥 streak alive and share a spoiler-free result card. Riddles in English, Bahasa Indonesia and Hindi / Hinglish. Daily AI Riddle is an app on [Anna](https://anna.partners).
+**A brand-new riddle every day, made just for you by AI.** Answer in your own words, take up to 3 hints, keep your 🔥 streak alive and share a spoiler-free result card. Riddles in English, Bahasa Indonesia and Hindi / Hinglish. Riddle Streak is an app on [Anna](https://anna.partners).
 
 - [Privacy policy](privacy/)
 - Contact: harshal456951@gmail.com

@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Riddle Streak — Privacy Policy
 
-_Last updated: 23 October 2026_
+_Last updated: 9 November 2026_
 
 Riddle Streak is an app that runs inside Anna. This policy explains what the app does with your information.
 
@@ -21,7 +21,7 @@ The AI is provided by Anna and runs under your own Anna account and AI quota. Ri
 
 ## What is stored
 
-The app stores only what it needs to work, in **your own Anna app storage** (it is not shared with other users):
+The app stores only what it needs to work, in **your own Anna app storage** (it is not shared with other users), plus a backup copy in this device's browser storage so your game can resume even offline or after the app window closes:
 
 - your settings (riddle language, difficulty, theme),
 - today's riddle and your guesses and hints for it,
